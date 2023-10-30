@@ -1,0 +1,24 @@
+{
+  "name": "@padcom/nano-css-reset",
+  "version": "0.0.1",
+  "description": "A nano-sized CSS reset based on Kevin Powell's recommendations",
+  "keywords": ["css", "css-reset"],
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "reset.css"
+  ],
+  "exports": {
+    ".": {
+      "default": "./reset.css"
+    }
+  },
+  "homepage": "https://github.com/padcom/nano-css-reset#readme",
+  "bugs": {
+    "url": "https://github.com/padcom/nano-css-reset/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/padcom/nano-css-reset.git"
+  }
+}
