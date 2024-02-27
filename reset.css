@@ -10,6 +10,11 @@
   font: inherit;
 }
 
+/* Make sure dialogs are centered on the available space */
+dialog {
+  margin: auto;
+}
+
 /* Remove list styles on ul, ol elements with a role of "list" */
 ul[role="list"],
 ol[role="list"] {
