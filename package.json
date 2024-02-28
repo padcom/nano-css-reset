@@ -9,11 +9,15 @@
   "author": "Matthias Hryniszak <padcom@gmail.com>",
   "license": "MIT",
   "files": [
-    "reset.css"
+    "reset.css",
+    "reset-layer.css"
   ],
   "exports": {
     ".": {
       "default": "./reset.css"
+    },
+    "./reset-layer.css": {
+      "default": "./reset-layer.css"
     }
   },
   "homepage": "https://github.com/padcom/nano-css-reset#readme",
