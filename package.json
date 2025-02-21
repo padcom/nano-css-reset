@@ -1,6 +1,6 @@
 {
   "name": "@padcom/nano-css-reset",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A nano-sized CSS reset based on Kevin Powell's recommendations",
   "keywords": [
     "css",
